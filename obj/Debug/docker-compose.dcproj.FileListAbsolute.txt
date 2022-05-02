@@ -1,0 +1,1 @@
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

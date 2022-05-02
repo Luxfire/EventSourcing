@@ -1,0 +1,15 @@
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.EventStore\bin\Debug\net5.0\EventSourcingDemo.EventStore.deps.json
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.EventStore\bin\Debug\net5.0\EventSourcingDemo.EventStore.dll
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.EventStore\bin\Debug\net5.0\EventSourcingDemo.EventStore.pdb
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.EventStore\bin\Debug\net5.0\EventSourcingDemo.Domain.dll
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.EventStore\bin\Debug\net5.0\EventSourcingDemo.Domain.pdb
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.EventStore\obj\Debug\net5.0\EventSourcingDemo.EventStore.csproj.AssemblyReference.cache
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.EventStore\obj\Debug\net5.0\EventSourcingDemo.EventStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.EventStore\obj\Debug\net5.0\EventSourcingDemo.EventStore.AssemblyInfoInputs.cache
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.EventStore\obj\Debug\net5.0\EventSourcingDemo.EventStore.AssemblyInfo.cs
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.EventStore\obj\Debug\net5.0\EventSourcingDemo.EventStore.csproj.CoreCompileInputs.cache
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.EventStore\obj\Debug\net5.0\EventSourcingDemo.EventStore.csproj.CopyComplete
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.EventStore\obj\Debug\net5.0\EventSourcingDemo.EventStore.dll
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.EventStore\obj\Debug\net5.0\refint\EventSourcingDemo.EventStore.dll
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.EventStore\obj\Debug\net5.0\EventSourcingDemo.EventStore.pdb
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.EventStore\obj\Debug\net5.0\ref\EventSourcingDemo.EventStore.dll

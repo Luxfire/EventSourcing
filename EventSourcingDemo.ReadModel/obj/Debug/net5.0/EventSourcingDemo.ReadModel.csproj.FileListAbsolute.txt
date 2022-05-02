@@ -1,0 +1,15 @@
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.ReadModel\bin\Debug\net5.0\EventSourcingDemo.ReadModel.deps.json
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.ReadModel\bin\Debug\net5.0\EventSourcingDemo.ReadModel.runtimeconfig.json
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.ReadModel\bin\Debug\net5.0\EventSourcingDemo.ReadModel.runtimeconfig.dev.json
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.ReadModel\bin\Debug\net5.0\EventSourcingDemo.ReadModel.dll
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.ReadModel\bin\Debug\net5.0\EventSourcingDemo.ReadModel.pdb
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.ReadModel\obj\Debug\net5.0\EventSourcingDemo.ReadModel.csproj.AssemblyReference.cache
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.ReadModel\obj\Debug\net5.0\EventSourcingDemo.ReadModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.ReadModel\obj\Debug\net5.0\EventSourcingDemo.ReadModel.AssemblyInfoInputs.cache
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.ReadModel\obj\Debug\net5.0\EventSourcingDemo.ReadModel.AssemblyInfo.cs
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.ReadModel\obj\Debug\net5.0\EventSourcingDemo.ReadModel.csproj.CoreCompileInputs.cache
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.ReadModel\obj\Debug\net5.0\EventSourcingDemo.ReadModel.dll
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.ReadModel\obj\Debug\net5.0\refint\EventSourcingDemo.ReadModel.dll
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.ReadModel\obj\Debug\net5.0\EventSourcingDemo.ReadModel.pdb
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.ReadModel\obj\Debug\net5.0\EventSourcingDemo.ReadModel.genruntimeconfig.cache
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.ReadModel\obj\Debug\net5.0\ref\EventSourcingDemo.ReadModel.dll

@@ -1,0 +1,88 @@
+name: dockercompose14787418870353468297
+services:
+  esdb:
+    environment:
+      EVENTSTORE_ENABLE_ATOM_PUB_OVER_HTTP: "true"
+      EVENTSTORE_ENABLE_EXTERNAL_TCP: "true"
+      EVENTSTORE_EXT_TCP_PORT: "1113"
+      EVENTSTORE_HTTP_PORT: "2113"
+      EVENTSTORE_INSECURE: "true"
+      EVENTSTORE_RUN_PROJECTIONS: All
+    image: eventstore/eventstore
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 1113
+      published: "1113"
+      protocol: tcp
+    - mode: ingress
+      target: 2113
+      published: "2113"
+      protocol: tcp
+    volumes:
+    - type: volume
+      source: eventstore-volume-data
+      target: /var/lib/eventstore
+    - type: volume
+      source: eventstore-volume-logs
+      target: /var/log/eventstore
+  eventsourcingdemo:
+    build:
+      context: C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master
+      dockerfile: ./Dockerfile
+    depends_on:
+      esdb:
+        condition: service_started
+      mssql:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:80
+    image: eventsourcingdemo
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+    - mode: ingress
+      target: 80
+      published: "5555"
+      protocol: tcp
+    - mode: ingress
+      target: 443
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\Artsiom.Trushkou\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\Artsiom.Trushkou\AppData\Roaming/ASP.NET/Https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+  mssql:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Q@345678
+    image: mcr.microsoft.com/mssql/server:latest
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "1433"
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose14787418870353468297_default
+volumes:
+  eventstore-volume-data:
+    name: dockercompose14787418870353468297_eventstore-volume-data
+  eventstore-volume-logs:
+    name: dockercompose14787418870353468297_eventstore-volume-logs

@@ -1,0 +1,342 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo\\EventSourcingDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.Domain\\EventSourcingDemo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.Domain\\EventSourcingDemo.Domain.csproj",
+        "projectName": "EventSourcingDemo.Domain",
+        "projectPath": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.Domain\\EventSourcingDemo.Domain.csproj",
+        "packagesPath": "C:\\Users\\Artsiom.Trushkou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Artsiom.Trushkou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.EventStore\\EventSourcingDemo.EventStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.EventStore\\EventSourcingDemo.EventStore.csproj",
+        "projectName": "EventSourcingDemo.EventStore",
+        "projectPath": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.EventStore\\EventSourcingDemo.EventStore.csproj",
+        "packagesPath": "C:\\Users\\Artsiom.Trushkou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.EventStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Artsiom.Trushkou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.Domain\\EventSourcingDemo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.Domain\\EventSourcingDemo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "EventStore.Client": {
+              "target": "Package",
+              "version": "[21.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.Logic\\EventSourcingDemo.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.Logic\\EventSourcingDemo.Logic.csproj",
+        "projectName": "EventSourcingDemo.Logic",
+        "projectPath": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.Logic\\EventSourcingDemo.Logic.csproj",
+        "packagesPath": "C:\\Users\\Artsiom.Trushkou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Artsiom.Trushkou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.EventStore\\EventSourcingDemo.EventStore.csproj": {
+                "projectPath": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.EventStore\\EventSourcingDemo.EventStore.csproj"
+              },
+              "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.ReadModel\\EventSourcingDemo.ReadModel.csproj": {
+                "projectPath": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.ReadModel\\EventSourcingDemo.ReadModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.ReadModel\\EventSourcingDemo.ReadModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.ReadModel\\EventSourcingDemo.ReadModel.csproj",
+        "projectName": "EventSourcingDemo.ReadModel",
+        "projectPath": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.ReadModel\\EventSourcingDemo.ReadModel.csproj",
+        "packagesPath": "C:\\Users\\Artsiom.Trushkou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.ReadModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Artsiom.Trushkou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo\\EventSourcingDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo\\EventSourcingDemo.csproj",
+        "projectName": "EventSourcingDemo",
+        "projectPath": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo\\EventSourcingDemo.csproj",
+        "packagesPath": "C:\\Users\\Artsiom.Trushkou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Artsiom.Trushkou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.Logic\\EventSourcingDemo.Logic.csproj": {
+                "projectPath": "C:\\Users\\Artsiom.Trushkou\\Downloads\\EventSourcingDemo-master\\EventSourcingDemo-master\\EventSourcingDemo.Logic\\EventSourcingDemo.Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "EventStore.Client": {
+              "target": "Package",
+              "version": "[21.2.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

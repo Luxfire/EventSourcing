@@ -1,0 +1,12 @@
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.Domain\bin\Debug\net5.0\EventSourcingDemo.Domain.deps.json
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.Domain\bin\Debug\net5.0\EventSourcingDemo.Domain.dll
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.Domain\bin\Debug\net5.0\EventSourcingDemo.Domain.pdb
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.Domain\obj\Debug\net5.0\EventSourcingDemo.Domain.csproj.AssemblyReference.cache
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.Domain\obj\Debug\net5.0\EventSourcingDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.Domain\obj\Debug\net5.0\EventSourcingDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.Domain\obj\Debug\net5.0\EventSourcingDemo.Domain.AssemblyInfo.cs
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.Domain\obj\Debug\net5.0\EventSourcingDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.Domain\obj\Debug\net5.0\EventSourcingDemo.Domain.dll
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.Domain\obj\Debug\net5.0\refint\EventSourcingDemo.Domain.dll
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.Domain\obj\Debug\net5.0\EventSourcingDemo.Domain.pdb
+C:\Users\Artsiom.Trushkou\Downloads\EventSourcingDemo-master\EventSourcingDemo-master\EventSourcingDemo.Domain\obj\Debug\net5.0\ref\EventSourcingDemo.Domain.dll
